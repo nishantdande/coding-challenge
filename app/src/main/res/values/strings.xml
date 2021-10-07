@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coding Challenge</string>
+    <string name="image_not_found">Image Not Found. Click on `Fetch Again` Button</string>
+    <string name="storage_permission_denied">Storage Permission Denied</string>
+    <string name="fetch_again">Fetch Again</string>
+    <string name="no_connection">No Connection</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="file_not_exists">File Not Exists</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coding Challenge</string>
+    <string name="image_not_found">चित्र नहीं मिला। `फिर से लाएं` बटन पर क्लिक करें</string>
+    <string name="storage_permission_denied">संग्रहण अनुमति अस्वीकृत</string>
+    <string name="fetch_again">फिर से प्राप्त करें</string>
+    <string name="no_connection">कोई कनेक्शन नहीं</string>
+    <string name="something_went_wrong">कुछ गलत हो गया</string>
+    <string name="file_not_exists">फ़ाइल मौजूद नहीं है</string>
+</resources>
